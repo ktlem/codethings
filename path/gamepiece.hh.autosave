@@ -1,0 +1,16 @@
+#ifndef GAMEPIECE_HH
+#define GAMEPIECE_HH
+
+using namespace std;
+
+class Gamepiece
+        
+    public:
+    
+        
+    private:
+        
+
+//Pelinappula
+
+#endif // GAMEPIECE_HH
