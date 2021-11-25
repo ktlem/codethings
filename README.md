@@ -1,3 +1,5 @@
-# Projektit-ja-koulu
+# scribbles
 
-Tietotekniikan DI-opintojen aikana tehtyjä ohjelmointiprojekteja sekä muita merkittäviä koodinpätkiä.
+Here be random bits. 
+
+Python / C++
