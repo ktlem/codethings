@@ -1,0 +1,8 @@
+# README
+
+This folder contains the files for 'Game of Taxes', a program which shows the tax-vassalship connections of medieval (or modern!) cities.
+
+Users may enter cities and their data by hand, or import from file, then manipulate the connections using commands within the program.
+
+Efficiency of each method is listed and described in datastructures.hh
+There may be small errors in the efficiencies, and in the efficiency of the code itself.
