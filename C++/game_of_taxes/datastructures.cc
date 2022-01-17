@@ -1,5 +1,6 @@
 // Datastructures.cc
-Kristian Lempinen
+// Kristian Lempinen
+
 
 #include "datastructures.hh"
 
