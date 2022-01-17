@@ -1,7 +1,4 @@
-/* 'Education Center'
- *
- * Description:
- * This is a program that presents the user a selection of courses by location. To initialize the
+/* This is a program that presents the user a selection of courses by location. To initialize the
  * program, the user will need to input course data as a csv-file, from which the program will generate
  * the course selection in a format that can be accessed using various commands.
  *
@@ -13,12 +10,7 @@
  * courses_in_theme <theme> ---- prints a list of all courses under the chosen theme
  * favorite_theme -------------- prints the most popular course(s) by enrollments
  *
- *
- * Program author
- * Name: Kristian Lempinen
- * Student number: H296236
- * UserID: sbkrle
- * E-Mail: kristian.lempinen@tuni.fi
+ * Kristian Lempinen
  *
  * Notes about the program and it's implementation:
  * - Have fun!
