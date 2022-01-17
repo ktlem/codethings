@@ -6,3 +6,5 @@ Users may enter cities and their data by hand, or import from file, then manipul
 
 Efficiency of each method is listed and described in datastructures.hh
 There may be small errors in the efficiencies, and in the efficiency of the code itself.
+
+The base concept of this code is portable to any hierarchically connected data, that does not loop back to itself.
