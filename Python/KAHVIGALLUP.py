@@ -1,7 +1,5 @@
-# TIE-02101 Ohjelmointi 1: Johdanto
 # Kahvigallup-ohjelma
-# Kristian Lempinen 296236
-# kristian.lempinen@tuni.fi
+# Kristian Lempinen
 
 
 TOO_MUCH_COFFEE = 4     # Vakio, jolla määritellään kuinka paljon on "liikaa kahvia" tarkastelun kannalta.
