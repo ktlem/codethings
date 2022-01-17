@@ -1,0 +1,6 @@
+#README
+
+This is an embedded systems project done in University's Embedded Systems course.
+
+The program is a rudimentary shooter game that plays on a 10x10 LED matrix and is controlled by three buttons.
+
