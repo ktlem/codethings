@@ -14,12 +14,7 @@
  * When printing the game board, green button is represented by 'G', red
  * button by 'R', empty hole by 'o', and unused position by empty space.
  *
- * Program author
- * Name: Kristian Lempinen
- * Student number: H296236
- * UserID: sbkrle
- * E-Mail: kristian.lempinen@tuni.fi
- * Feedback language (fi/en): fi
+ * Kristian Lempinen
  *
  * Notes about the program and it's implementation:
  * -
