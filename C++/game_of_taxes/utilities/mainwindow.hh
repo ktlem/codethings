@@ -1,10 +1,3 @@
-// The main program (provided by the course), hw1 of TIE-20100/TIE-20106
-//
-// DO ****NOT**** EDIT THIS FILE!
-// (Preferably do not edit this even temporarily. And if you still decide to do so
-//  (for debugging, for example), DO NOT commit any changes to git, but revert all
-//  changes later. Otherwise you won't be able to get any updates/fixes to this
-//  file from git!)
 
 #ifndef MAINWINDOW_HH
 #define MAINWINDOW_HH
