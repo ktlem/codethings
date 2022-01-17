@@ -1,11 +1,13 @@
-"""TIE-02101 Ohjelmointi 1: Johdanto
-Tehtävä 12.3 - Reititysprotokollasimulaattori
+"""
+Reititysprotokollasimulaattori
 Kristian Lempinen 296236
 
 Tämä on ohjelma, joka mahdollistaa reitittimien reititystaulujen tietojen tutkimisen, kun reitittimet
 kommunikoivat keskenään. Ohjelmaan voi ladata tietoja suoraan ennaltamäärätystä tiedostosta tai syöttää tietoja
 käsin. Käyttäjä voi luoda uusia reitittimiä sekä verkkoja, linkittää näitä keskenään ja tulostuskomennoilla saada
-tietoonsa reitittimien sen hetkiset yhteydet verkkoihin, sekä muihin reitittimiin."""
+tietoonsa reitittimien sen hetkiset yhteydet verkkoihin, sekä muihin reitittimiin.
+
+"""
 
 
 # Router on luokka, jolla reitittimiä ja niiden tietoja käsitellään ohjelmassa.
