@@ -1,5 +1,6 @@
-# scribbles
+Hi! This repository contains my code.
+Technologies used here are mainly C++ and Python, with C++ being my strength.
 
-Here be random bits. 
+Hopefully soon I will have my first functioning web apps published here (with React).
 
-Python / C++
+Thanks for looking!
