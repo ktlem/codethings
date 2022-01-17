@@ -1,0 +1,7 @@
+# README
+
+This is a program which takes a set of course selections as a file, then allows users to browse the course selections at several different municipial "hobby-centers".
+
+Using commands within the program, users can enrol onto courses among other actions.
+
+The base concept of this code is to have a database accessible and partially modifiable by the user, within certain set of rules preventing "rule-breaking".
