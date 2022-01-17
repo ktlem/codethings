@@ -1,8 +1,7 @@
 // Datastructures.hh
-//
-// Student name: Kristian Lempinen
-// Student email: kristian.lempinen@tuni.fi
-// Student number: H296236
+// Kristian Lempinen
+
+
 
 #ifndef DATASTRUCTURES_HH
 #define DATASTRUCTURES_HH
@@ -86,8 +85,6 @@ private:
     std::string msg_;
 };
 
-
-// This is the class you are supposed to implement
 
 class Datastructures
 {
@@ -178,8 +175,7 @@ public:
     int total_net_tax(TownID id);
 
 private:
-
-    // Add stuff needed for your class implementation here
+    
     struct Town
     {
         TownID id;
