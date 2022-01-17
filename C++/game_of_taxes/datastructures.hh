@@ -2,7 +2,6 @@
 // Kristian Lempinen
 
 
-
 #ifndef DATASTRUCTURES_HH
 #define DATASTRUCTURES_HH
 
@@ -156,23 +155,10 @@ public:
     // Short rationale for estimate: while-loop iterates through node levels, with best case being constant and worst linear, since vassalship-loops aren't allowed. Constant at() and push_back() operations are used if needed.
     std::vector<TownID> taxer_path(TownID id);
 
-    // Non-compulsory phase 1 operations
-
     // Estimate of performance: N log (N)
     // Short rationale for estimate: for-loop iterates through each element if condition is fulfilled. Constant at average operation find() is used and constant operations at(). Erase is linear for number of elements (in this case 1) + num. of elements after last.
     bool remove_town(TownID id);
 
-    // Estimate of performance:
-    // Short rationale for estimate:
-    std::vector<TownID> towns_nearest(Coord coord);
-
-    // Estimate of performance:
-    // Short rationale for estimate:
-    std::vector<TownID> longest_vassal_path(TownID id);
-
-    // Estimate of performance:
-    // Short rationale for estimate:
-    int total_net_tax(TownID id);
 
 private:
     
