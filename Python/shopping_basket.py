@@ -1,7 +1,5 @@
 """
-TIE-02101 Ohjelmointi 1
-Kristian Lempinen
-Opiskelijanumero: 296236
+Author: Kristian Lempinen
 
 OHJELMA: KAUPPAKORI
 Ohjelma auttaa käyttäjää löytämään missä hänen kannattaisi käydä ostoksilla, kun katsotaan ostoskorin hintaa.
