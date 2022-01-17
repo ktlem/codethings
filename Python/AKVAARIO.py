@@ -1,8 +1,4 @@
-# TIE-02101 Ohjelmointi 1: Johdanto
-# Kristian Lempinen, kristian.lempinen@tuni.fi, opiskelijanumero: 296236
-# Tehtävän 3.4 ratkaisu
-# Ohjelma, joka auttaa määrittämään onko vesi seeprakalalle sopivaa.
-
+# Ohjelma, joka auttaa määrittämään onko akvaarion vesi seeprakalalle sopivaa mittaustuloksien pohjalta.
 
 def main():
     # toiminto, joka kysyy mittaustulosten määrän
