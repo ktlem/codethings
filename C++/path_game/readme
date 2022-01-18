@@ -1,0 +1,8 @@
+# README
+
+This is a classic path game. The game board is a grid, with red pieces on the top-most row and green pieces at the very bottom. 
+The objective is to move all the green pieces to the top and all the red pieces to the bottom.
+
+The game's code will handle exceptions, such as attempting to move a piece out of bounds or to a filled slot.
+
+The basic principle of this code is to demonstrate a simple piece-and-board type of game. With adjustments to the rules, more complicated games could be created.
