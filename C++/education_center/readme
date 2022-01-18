@@ -2,6 +2,6 @@
 
 This is a program which takes a set of course selections as a file, then allows users to browse the course selections at several different municipial "hobby-centers".
 
-Using commands within the program, users set limited parameters for their "searches".
+Using commands within the program, users can set limited parameters for their "searches", such as search by municipality or course theme.
 
-The base concept of this code is to have a small database accessible by the user via an interface, with options.
+The base concept of this code is to have a scaleable database accessible by the user via an interface, with options.
